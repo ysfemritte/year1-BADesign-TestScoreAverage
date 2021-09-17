@@ -1,0 +1,10 @@
+C:\Users\Yusuf\OneDrive\BADesign\Week 3\TestScoreAverage\bin\Debug\TestScoreAverage.exe.config
+C:\Users\Yusuf\OneDrive\BADesign\Week 3\TestScoreAverage\bin\Debug\TestScoreAverage.exe
+C:\Users\Yusuf\OneDrive\BADesign\Week 3\TestScoreAverage\bin\Debug\TestScoreAverage.pdb
+C:\Users\Yusuf\OneDrive\BADesign\Week 3\TestScoreAverage\obj\Debug\TestScoreAverage.csprojAssemblyReference.cache
+C:\Users\Yusuf\OneDrive\BADesign\Week 3\TestScoreAverage\obj\Debug\TestScoreAverage.Form1.resources
+C:\Users\Yusuf\OneDrive\BADesign\Week 3\TestScoreAverage\obj\Debug\TestScoreAverage.Properties.Resources.resources
+C:\Users\Yusuf\OneDrive\BADesign\Week 3\TestScoreAverage\obj\Debug\TestScoreAverage.csproj.GenerateResource.cache
+C:\Users\Yusuf\OneDrive\BADesign\Week 3\TestScoreAverage\obj\Debug\TestScoreAverage.csproj.CoreCompileInputs.cache
+C:\Users\Yusuf\OneDrive\BADesign\Week 3\TestScoreAverage\obj\Debug\TestScoreAverage.exe
+C:\Users\Yusuf\OneDrive\BADesign\Week 3\TestScoreAverage\obj\Debug\TestScoreAverage.pdb
